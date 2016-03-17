@@ -2,6 +2,7 @@ name: whosyourguru
 favicon: null
 layout_spectrum: 0.4493772089481354
 typography_spectrum: 0.27240952639840543
+title: "Who's Your Guru"
 cta:
   domain: null
   bucket: null
