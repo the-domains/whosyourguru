@@ -1,0 +1,28 @@
+name: whosyourguru
+favicon: null
+layout_spectrum: 0.4493772089481354
+typography_spectrum: 0.27240952639840543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49387177056632936
+  lightness: 0.4783284096047282
+  saturation: 0.1960858611855656
+  rhythmicContrast: 0.3717680284753442
+purpose: []
