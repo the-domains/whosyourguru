@@ -1,41 +1,41 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Who's Your Guru
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.25236
-title: "Who's Your Guru"
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.1875
+  saturation: 0.7191489
   brandStrength: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.6553192
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  lightness: 0.4783284096047282
-purpose: []
+  rhythmicContrast: 0.8595745
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
-name: "Who's Your Guru"
-typography_spectrum: 0.2724095263984054
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Who's Your Guru
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6021277
+layout_spectrum: 0
